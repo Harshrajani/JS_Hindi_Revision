@@ -1,2 +1,2 @@
 # JS_Hindi_Revision
-Revision of Java
+Revision of JavaScript From YouTube Channel : @ChaiAurCode
